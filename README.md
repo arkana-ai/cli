@@ -1,2 +1,7 @@
-# cli
-arkana integrated command line interface
+# Arkana Command line tools
+
+To read how to use CLI, use this command below
+
+```bash
+arkana --help
+```
